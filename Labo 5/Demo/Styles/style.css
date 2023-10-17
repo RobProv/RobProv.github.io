@@ -1,0 +1,22 @@
+h1,h2{
+    color: red;
+}
+
+/* class mag meerdere keren voorkomen in je html file*/
+.styleBlue{
+    color: blue;
+    font-size: 4em;
+}
+
+/* ID mag maar 1 keer voorkomen in je html file*/
+#opmaak{
+
+}
+.styleGreen{
+    color: green;
+}
+
+
+section>h1{
+    color: aquamarine;
+}
