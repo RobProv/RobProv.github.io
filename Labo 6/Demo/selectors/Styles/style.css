@@ -1,0 +1,31 @@
+body {
+    background-color: yellow;
+    font-size: 3em;
+}
+/* element selector*/
+h1 {
+    font-size: 4em;
+    background-color: red;
+}
+
+p{
+    background-color: aqua;
+}
+
+/* pseudo-element selelctor*/
+p:first-letter{
+    font-size: 5em;
+    color: red;
+}
+
+/*p:first-line{
+    text-decoration: underline;
+} */
+
+/* pseudo-class selector */
+a:link{text-decoration: none}
+li a:hover{text-decoration: underline}
+
+li:nth-child(2n){
+    color: blue;
+}
