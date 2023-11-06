@@ -4,6 +4,7 @@
 }
 body{
     font-family: Helvetica;
+    margin: 0px;
 }
 h1{
     font-size: 80px;
@@ -13,4 +14,27 @@ h2{
 }
 h1, h2{
     color: #EDF2F4;
+}
+header{
+    padding: 30px;
+    background-color: #2B2D42;
+    color: #8D99AE;
+    margin-bottom: 10px;
+
+}
+footer{
+    padding: 30px;
+    background-color: #2B2D42;
+    color: #8D99AE;
+    margin-top: 10px;
+}
+.education{
+    padding: 30px;
+    background-color: #8D99AE;
+}
+a{
+    color: #EF233C;
+}
+p{
+    color: #8D99AE;
 }
